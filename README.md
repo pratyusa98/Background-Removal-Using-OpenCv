@@ -2,7 +2,9 @@
 Code For Change Background Using Opencv
 
 We live in the era of video calls. Conducted over the internet and using whatever camera that comes with your laptop or computer, we broadcast our lives to our classmates, coworkers, and families.
+
 Sometimes, though, we don’t want to broadcast our space. My office, like many others, has a few perennial pieces of clutter. I also have a guitar on the wall behind me, which doesn’t always scream professionalism.
+
 As a result, Zoom and other video calling software includes a feature to hide your background, usually behind an image of your choice. While most don’t think of it much, the actual task of determining what determines the foreground and the background in an image is hardly trivial.
 
 Technology Used:
